@@ -1,0 +1,54 @@
+{
+    "movies": [
+    {
+        "Movieid": 1,
+        "Title": "The Lord of the Rings: The Fellowship of the Ring - Extended Edition",
+        "Genre": "Fantasy",
+        "Length": 3.28,
+        "RottenTomatoes Rating": 91
+    },
+    {
+        "Movieid": 2,
+        "Title": "The Lord of the Rings: The Two Towers - Extended Edition",
+        "Genre": "Fantasy",
+        "Length": 2.59,
+        "RottenTomatoes Rating": 95
+    },
+    {
+        "Movieid": 3,
+        "Title": "The Lord of the Rings: The Return of the King - Extended Edition",
+        "Genre": "Fantasy",
+        "Length": 4.13,
+        "RottenTomatoes Rating": 94
+    },
+    {
+        "Movieid": 4,
+        "Title": "The Suicide Squad",
+        "Genre": "Action",
+        "Length": 2.12,
+        "RottenTomatoes Rating": 90
+    },
+    {
+        "Movieid": 4,
+        "Title": "Wonder Woman 1984",
+        "Genre": "Action",
+        "Length": 2.31,
+        "RottenTomatoes Rating": 58
+    },
+    {
+        "Movieid": 5,
+        "Title": "Batman Begins",
+        "Genre": "Action",
+        "Length": 2.20,
+        "RottenTomatoes Rating": 85
+    },
+    {
+        "Movieid": 6,
+        "Title": "The Dark Night",
+        "Genre": "Action",
+        "Length": 2.32,
+        "RottenTomatoes Rating": 94
+    }
+    
+    ]
+}
